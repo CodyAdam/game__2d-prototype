@@ -1,6 +1,6 @@
 # Prototype-hook-game
 
-[Play here](https://codyadam.github.io/Prototype-hook-game/)
+[Play here](https://codyadam.github.io/game__2d-prototype/)
 
 # Controls 
 - move using WASD
